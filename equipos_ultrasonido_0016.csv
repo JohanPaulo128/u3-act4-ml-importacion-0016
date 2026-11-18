@@ -1,0 +1,7 @@
+﻿id_equipo,marca,modelo,ano_fabricacion,ubicacion,estado,horas_uso_total,ultimo_mantenimiento,costo_adquisicion,tecnico_asignado
+301,GE,Voluson E8,2018,Ginecologia,Operativo,4500,2023-10,850000,Juan P.
+302,Philips,EPIQ 7,2020,Cardiologia,Operativo,2100,2023-11,920000,Maria L.
+303,Siemens,Acuson S2000,2019,Radiologia,Mantenimiento,3800,2023-12,780000,Carlos R.
+304,GE,Logiq E9,2021,Radiologia,Operativo,1200,2024-01,950000,Juan P.
+305,Canon,Aplio 500,2017,Ginecologia,Operativo,5600,2023-09,700000,Ana S.
+306,Philips,Affiniti 70,2022,Cardiologia,Operativo,800,2024-01,880000,Maria L.
