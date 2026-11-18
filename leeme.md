@@ -6,6 +6,8 @@
 > **📈 Dificultad:** Cero a principiante  
 > **🐍 Lenguaje:** Python  
 > **🛠️ Herramientas:** Visual Studio Code, Pandas, Matplotlib y CSV 
+## Imagen de ultrasonido
+![alt text](image-14.png)
 ## Tabla original de equipos
 ![alt text](image.png)
 
@@ -46,5 +48,5 @@
 ## 22. Diagrama de caja: Distribución de salarios
 ![alt text](image-12.png)
 
-## 23 Matriz de correlación
+## 23 Matriz de correlación+
 ![alt text](image-13.png)
